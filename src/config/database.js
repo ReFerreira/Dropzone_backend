@@ -1,9 +1,9 @@
 module.exports = {
-  dialect: 'mysql',
-  host: 'embboa13',
-  username: 'glp',
-  password: 'glp*',
-  database: 'glp',
+  dialect: '',
+  host: '',
+  username: '',
+  password: '',
+  database: '',
   define: {
     timestamp: true,
     underscored: true,
